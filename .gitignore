@@ -1,0 +1,22 @@
+# Binaries and libraries
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+wex_downloader
+wex-fastest-downloader
+libwexdl.so
+bin/
+dist/
+
+# Runtime and sidecars
+*.part
+*.wexdl
+*.tmp
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
